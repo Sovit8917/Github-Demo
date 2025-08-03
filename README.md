@@ -1,4 +1,4 @@
 # Github-Demo
-Author - sovit sarbeswar lenka
+Author - smurti rekha barik and sovit sarbeswar lenka
 <br>
 I am sovit sarbeswar lenka
